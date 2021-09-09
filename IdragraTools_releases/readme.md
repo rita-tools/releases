@@ -1,4 +1,4 @@
-# Intallation instruction
+# Intallation instructions
 1. download the zipped file of the selected release
 2. Run QGIS
 3. Under Plugins --> Manage and Install Plugins... --> Install from ZIP
